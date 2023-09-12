@@ -1,3 +1,3 @@
 # KDDash
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-p9bndn)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/kddash)
